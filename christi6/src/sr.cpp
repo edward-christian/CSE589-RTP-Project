@@ -1,3 +1,17 @@
+/*
+* Edward Christian | christi6
+* CSE589 | sr.cpp
+* 11/30/2021
+*
+* I have read and understand the academic integrity policy.
+* 
+* References used to understand assignment, code, and to write analysis:
+* 1. https://cse.buffalo.edu/~lusu/cse4589/Fall2019/Recitation/Recitation_PA2.pdf // for project logistics
+* 2. http://web.mit.edu/6.033/2018/wwwdocs/assignments/rtp_guide.pdf // for perspective on RTP at a high level
+* 3. https://github.com/Ghamry0x1/reliable-transport-protocol // for perspective on C implementation
+* 4. https://github.com/dakotale/Reliable-Transport-Protocols // for perspective on C++ implementation
+*/
+
 //Modules, definitions, global variables and objects.
 #include "../include/simulator.h"
 #include <iostream>
